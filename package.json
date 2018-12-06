@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "pre-commit": "npm run commit && npm run lint",
-    "commit": "commitlint -E HUSKY_GIT_PARAMS"
+    "commit": "commitlint -E"
   },
   "private": true,
   "dependencies": {
